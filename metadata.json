@@ -1,0 +1,5 @@
+{
+  "name": "Pomodoro Focus Clone",
+  "description": "A clone of the pomofocus.io application, providing a Pomodoro timer and task management to enhance productivity.",
+  "requestFramePermissions": []
+}
